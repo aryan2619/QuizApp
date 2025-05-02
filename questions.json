@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of Germany?",
+      "choices": ["Paris", "Berlin", "Madrid", "Rome"],
+      "answer": 1
+    },
+    {
+      "question": "Which is not an OOP concept?",
+      "choices": ["Inheritance", "Encapsulation", "Polymorphism", "Compilation"],
+      "answer": 3
+    },
+    {
+      "question": "Which keyword is used to inherit a class in Java?",
+      "choices": ["this", "super", "extends", "import"],
+      "answer": 2
+    }
+  ]
+  
